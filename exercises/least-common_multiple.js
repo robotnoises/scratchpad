@@ -20,7 +20,7 @@ function lcm(n1, n2) {
         multiplier++;
       }
     }
-    return multiple
+    return multiple;
   }
 }
 
